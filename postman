@@ -1,0 +1,13 @@
+Link:   https://ecommerce.free.beeceptor.com
+
+{
+    "success": true,
+    "user": {
+        "id": "f243806e-7868-46dc-a4e9-13a74940425d",
+        "username": "Ottilie.Johns61",
+        "avatar": "https://avatars.githubusercontent.com/u/36997526",
+        "createdAt": "2025-02-04T11:25:42Z",
+        "mfaEnabled": "true"
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwOTg3NjU0MzIxIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.yyrXde_06BW5sgNnwR1n4LtYxaiH8hZZzymQt5WUpZU"
+}
